@@ -18,7 +18,7 @@
 注意：在处理后，要可视化地对比新旧数据集。
 
 # 数据集
-## 1 Wine Reviews[https://www.kaggle.com/zynicide/wine-reviews]
+## 1 [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
 130k wine reviews with variety, location, winery, price, and description
 ### description
 #### Context
@@ -33,7 +33,7 @@ winemag-data_first150k.csv contains 10 columns and 150k rows of wine reviews.
 
 winemag-data-130k-v2.json contains 6919 nodes of wine reviews.
 
-## 2 Consumer & Visitor Insights For Neighborhoods[https://www.kaggle.com/safegraph/visit-patterns-by-census-block-group]
+## 2 [Consumer & Visitor Insights For Neighborhoods](https://www.kaggle.com/safegraph/visit-patterns-by-census-block-group)
 Consumer Insights & Visitation Data At The Census Block Group Level
 ### description
 #### SafeGraph
